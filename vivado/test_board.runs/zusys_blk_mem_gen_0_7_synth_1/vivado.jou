@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Fri Dec 13 13:59:21 2024
+# Process ID: 22856
+# Current directory: C:/Users/miken/Workspace/ultra96_bex/vivado/test_board.runs/zusys_blk_mem_gen_0_7_synth_1
+# Command line: vivado.exe -log zusys_blk_mem_gen_0_7.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source zusys_blk_mem_gen_0_7.tcl
+# Log file: C:/Users/miken/Workspace/ultra96_bex/vivado/test_board.runs/zusys_blk_mem_gen_0_7_synth_1/zusys_blk_mem_gen_0_7.vds
+# Journal file: C:/Users/miken/Workspace/ultra96_bex/vivado/test_board.runs/zusys_blk_mem_gen_0_7_synth_1\vivado.jou
+# Running On: LP4, OS: Windows, CPU Frequency: 2803 MHz, CPU Physical cores: 4, Host memory: 34189 MB
+#-----------------------------------------------------------
+source zusys_blk_mem_gen_0_7.tcl -notrace

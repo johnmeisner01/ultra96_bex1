@@ -1,0 +1,16 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version      : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date              : Mon Jan 13 16:36:40 2025
+| Host              : IONQ-D603 running 64-bit major release  (build 9200)
+| Command           : report_bus_skew -warn_on_violation -file zusys_wrapper_bus_skew_routed.rpt -pb zusys_wrapper_bus_skew_routed.pb -rpx zusys_wrapper_bus_skew_routed.rpx
+| Design            : zusys_wrapper
+| Device            : xczu3eg-sbva484
+| Speed File        : -1  PRODUCTION 1.30 05-15-2022
+| Temperature Grade : I
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

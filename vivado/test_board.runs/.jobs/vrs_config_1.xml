@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="zusys_and2_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_and2_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_and3_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_and3_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="zusys_and2_0_synth_1"/>
+	</Run>
+	<Run Id="zusys_and4_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_and4_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="zusys_and2_0_synth_1"/>
+	</Run>
+	<Run Id="zusys_axi_reg32_0_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_axi_reg32_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_axis_audio_pwm_0_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_axis_audio_pwm_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_bcd7seg_0_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_bcd7seg_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_c_counter_binary_0_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_c_counter_binary_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_xbar_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_xbar_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_auto_pc_1_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_auto_pc_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_vga_ctrl_0_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_vga_ctrl_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_jtag_axi_0_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_jtag_axi_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_and5_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_and5_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="zusys_and2_0_synth_1"/>
+	</Run>
+	<Run Id="zusys_hour_high_counter_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_hour_high_counter_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_util_vector_logic_2_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_util_vector_logic_2_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_min_counter_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_min_counter_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_sec_counter_ind_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_sec_counter_ind_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_hour_low_counter_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_hour_low_counter_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_proc_sys_reset_0_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_proc_sys_reset_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_util_vector_logic_0_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_util_vector_logic_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_min_low_counter_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_min_low_counter_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado" IsOrderedIPRun="true">
+		<Parent Id="zusys_hour_low_counter_0_synth_1"/>
+	</Run>
+	<Run Id="zusys_util_vector_logic_1_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_util_vector_logic_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_labtools_fmeter_0_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_labtools_fmeter_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_util_reduced_logic_0_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_util_reduced_logic_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_min_high_counter_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_min_high_counter_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_cycle_counter_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_cycle_counter_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_vio_0_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_vio_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_zynq_ultra_ps_e_0_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_zynq_ultra_ps_e_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_sec_counter_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_sec_counter_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="zusys_auto_pc_0_synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/zusys_auto_pc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="zusys_and2_0_synth_1"/>
+		<Parent Id="zusys_and3_0_synth_1"/>
+		<Parent Id="zusys_and4_0_synth_1"/>
+		<Parent Id="zusys_axi_reg32_0_0_synth_1"/>
+		<Parent Id="zusys_axis_audio_pwm_0_0_synth_1"/>
+		<Parent Id="zusys_bcd7seg_0_0_synth_1"/>
+		<Parent Id="zusys_c_counter_binary_0_0_synth_1"/>
+		<Parent Id="zusys_xbar_0_synth_1"/>
+		<Parent Id="zusys_auto_pc_1_synth_1"/>
+		<Parent Id="zusys_vga_ctrl_0_0_synth_1"/>
+		<Parent Id="zusys_jtag_axi_0_0_synth_1"/>
+		<Parent Id="zusys_and5_0_synth_1"/>
+		<Parent Id="zusys_hour_high_counter_0_synth_1"/>
+		<Parent Id="zusys_util_vector_logic_2_0_synth_1"/>
+		<Parent Id="zusys_min_counter_0_synth_1"/>
+		<Parent Id="zusys_sec_counter_ind_0_synth_1"/>
+		<Parent Id="zusys_hour_low_counter_0_synth_1"/>
+		<Parent Id="zusys_proc_sys_reset_0_0_synth_1"/>
+		<Parent Id="zusys_util_vector_logic_0_0_synth_1"/>
+		<Parent Id="zusys_min_low_counter_0_synth_1"/>
+		<Parent Id="zusys_util_vector_logic_1_0_synth_1"/>
+		<Parent Id="zusys_labtools_fmeter_0_0_synth_1"/>
+		<Parent Id="zusys_util_reduced_logic_0_0_synth_1"/>
+		<Parent Id="zusys_min_high_counter_0_synth_1"/>
+		<Parent Id="zusys_cycle_counter_0_synth_1"/>
+		<Parent Id="zusys_vio_0_0_synth_1"/>
+		<Parent Id="zusys_zynq_ultra_ps_e_0_0_synth_1"/>
+		<Parent Id="zusys_sec_counter_0_synth_1"/>
+		<Parent Id="zusys_auto_pc_0_synth_1"/>
+	</Run>
+	<Run Id="impl_1" LaunchDir="C:/Users/miken/XilinxWorkspace/TE0802/test_board/vivado/test_board.runs/impl_1" FlowId="Vivado_Implementation" FromStepId="init_design" ToStepId="write_bitstream">
+		<Parent Id="synth_1"/>
+		<Parent Id="zusys_and2_0_synth_1"/>
+		<Parent Id="zusys_and3_0_synth_1"/>
+		<Parent Id="zusys_and4_0_synth_1"/>
+		<Parent Id="zusys_axi_reg32_0_0_synth_1"/>
+		<Parent Id="zusys_axis_audio_pwm_0_0_synth_1"/>
+		<Parent Id="zusys_bcd7seg_0_0_synth_1"/>
+		<Parent Id="zusys_c_counter_binary_0_0_synth_1"/>
+		<Parent Id="zusys_xbar_0_synth_1"/>
+		<Parent Id="zusys_auto_pc_1_synth_1"/>
+		<Parent Id="zusys_vga_ctrl_0_0_synth_1"/>
+		<Parent Id="zusys_jtag_axi_0_0_synth_1"/>
+		<Parent Id="zusys_and5_0_synth_1"/>
+		<Parent Id="zusys_hour_high_counter_0_synth_1"/>
+		<Parent Id="zusys_util_vector_logic_2_0_synth_1"/>
+		<Parent Id="zusys_min_counter_0_synth_1"/>
+		<Parent Id="zusys_sec_counter_ind_0_synth_1"/>
+		<Parent Id="zusys_hour_low_counter_0_synth_1"/>
+		<Parent Id="zusys_proc_sys_reset_0_0_synth_1"/>
+		<Parent Id="zusys_util_vector_logic_0_0_synth_1"/>
+		<Parent Id="zusys_min_low_counter_0_synth_1"/>
+		<Parent Id="zusys_util_vector_logic_1_0_synth_1"/>
+		<Parent Id="zusys_labtools_fmeter_0_0_synth_1"/>
+		<Parent Id="zusys_util_reduced_logic_0_0_synth_1"/>
+		<Parent Id="zusys_min_high_counter_0_synth_1"/>
+		<Parent Id="zusys_cycle_counter_0_synth_1"/>
+		<Parent Id="zusys_vio_0_0_synth_1"/>
+		<Parent Id="zusys_zynq_ultra_ps_e_0_0_synth_1"/>
+		<Parent Id="zusys_sec_counter_0_synth_1"/>
+		<Parent Id="zusys_auto_pc_0_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+		<Parameter Name="runs.enableClusterConf" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

@@ -1,0 +1,14 @@
+Creation Date:      2024-06-29 00:34:37
+TE::ID:             4           
+TE::PRODID:         TE0802-02-1BEV2-A       
+TE::PARTNAME:       xczu1eg-sbva484-1-e     
+TE::BOARDPART:      trenz.biz:te0802_1eg_1e:part0:1.0    
+TE::SHORTDIR:       1eg_s1gb     
+TE::ZYNQFLASHTYP:   qspi-x4-single 
+TE::FPGAFLASHTYP:   mt25ql256-qspi-x4-single 
+TE::PCB_REV:        REV02      
+TE::DDR_SIZE:       1GB     
+TE::FLASH_SIZE:     32MB   
+TE::EMMC_SIZE:      NA    
+TE::OTHERS:         NA       
+TE::NOTES:          Samsung DDR4L        
