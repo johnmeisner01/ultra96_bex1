@@ -1,0 +1,1 @@
+C:/Users/john.meisner/Workspace/ultra96_bex/platform_freertos/psu_cortexr5_0/freertos10_xilinx_domain/bsp/psu_cortexr5_0/libsrc/openamp_v1_7/build_openamp/lib/CMakeFiles/open_amp-static.dir
