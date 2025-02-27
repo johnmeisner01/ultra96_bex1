@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="app_bex" location="C:/Users/Mike/OneDrive/bex/vitis/app_bex" platform="C:/Users/john.meisner/Workspace/ultra96_bex/platform_freertos/export/platform_freertos/platform_freertos.xpfm" platformUID="xilinx:ultra96_zu3eg:ultra96:0.0(custom)" systemProject="system_bex" sysConfig="platform_freertos" runtime="C/C++" cpu="freertos10_xilinx_domain" cpuInstance="psu_cortexr5_0" os="freertos10_xilinx" mssSignature="09dbc28d0c75a1701463adbafb6ba36d">
+  <configuration name="Debug" id="xilinx.gnu.arm.r5.exe.debug.1257256571">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.arm.r5.exe.release.1360323048">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="empty_application"/>
+</sdkproject:SdkProject>

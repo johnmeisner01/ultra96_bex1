@@ -1,0 +1,66 @@
+2025-02-25T19:45:27.430630400255-19:45:27 **** Incremental Build of configuration Debug for project app_bex ****
+000-make all 
+000-'Building file: ../Source/bex/src/bex.c'
+000-'Invoking: ARM R5 gcc compiler'
+000-armr5-none-eabi-gcc -DARMR5 -Wall -O2 -g3 -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\common" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\src" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\inc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\cli" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\ipc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\log" -c -fmessage-length=0 -MT"Source/bex/src/bex.o" -mcpu=cortex-r5  -mfloat-abi=hard  -mfpu=vfpv3-d16 -IC:/Users/john.meisner/Workspace/ultra96_bex/platform_freertos/export/platform_freertos/sw/platform_freertos/freertos10_xilinx_domain/bspinclude/include -MMD -MP -MF"Source/bex/src/bex.d" -MT"Source/bex/src/bex.o" -o "Source/bex/src/bex.o" "../Source/bex/src/bex.c"
+000-'Finished building: ../Source/bex/src/bex.c'
+000-' '
+000-'Building file: ../Source/bex/src/chan-size-1-instructions.c'
+000-'Invoking: ARM R5 gcc compiler'
+000-armr5-none-eabi-gcc -DARMR5 -Wall -O2 -g3 -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\common" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\src" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\inc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\cli" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\ipc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\log" -c -fmessage-length=0 -MT"Source/bex/src/chan-size-1-instructions.o" -mcpu=cortex-r5  -mfloat-abi=hard  -mfpu=vfpv3-d16 -IC:/Users/john.meisner/Workspace/ultra96_bex/platform_freertos/export/platform_freertos/sw/platform_freertos/freertos10_xilinx_domain/bspinclude/include -MMD -MP -MF"Source/bex/src/chan-size-1-instructions.d" -MT"Source/bex/src/chan-size-1-instructions.o" -o "Source/bex/src/chan-size-1-instructions.o" "../Source/bex/src/chan-size-1-instructions.c"
+000-'Finished building: ../Source/bex/src/chan-size-1-instructions.c'
+000-' '
+000-'Building file: ../Source/bex/src/chan-size-1501-instructions.c'
+000-'Invoking: ARM R5 gcc compiler'
+000-armr5-none-eabi-gcc -DARMR5 -Wall -O2 -g3 -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\common" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\src" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\inc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\cli" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\ipc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\log" -c -fmessage-length=0 -MT"Source/bex/src/chan-size-1501-instructions.o" -mcpu=cortex-r5  -mfloat-abi=hard  -mfpu=vfpv3-d16 -IC:/Users/john.meisner/Workspace/ultra96_bex/platform_freertos/export/platform_freertos/sw/platform_freertos/freertos10_xilinx_domain/bspinclude/include -MMD -MP -MF"Source/bex/src/chan-size-1501-instructions.d" -MT"Source/bex/src/chan-size-1501-instructions.o" -o "Source/bex/src/chan-size-1501-instructions.o" "../Source/bex/src/chan-size-1501-instructions.c"
+000-'Finished building: ../Source/bex/src/chan-size-1501-instructions.c'
+000-' '
+000-'Building file: ../Source/bex/src/chan-size-3001-instructions.c'
+000-'Invoking: ARM R5 gcc compiler'
+000-armr5-none-eabi-gcc -DARMR5 -Wall -O2 -g3 -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\common" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\src" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\inc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\cli" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\ipc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\log" -c -fmessage-length=0 -MT"Source/bex/src/chan-size-3001-instructions.o" -mcpu=cortex-r5  -mfloat-abi=hard  -mfpu=vfpv3-d16 -IC:/Users/john.meisner/Workspace/ultra96_bex/platform_freertos/export/platform_freertos/sw/platform_freertos/freertos10_xilinx_domain/bspinclude/include -MMD -MP -MF"Source/bex/src/chan-size-3001-instructions.d" -MT"Source/bex/src/chan-size-3001-instructions.o" -o "Source/bex/src/chan-size-3001-instructions.o" "../Source/bex/src/chan-size-3001-instructions.c"
+000-'Finished building: ../Source/bex/src/chan-size-3001-instructions.c'
+000-' '
+000-'Building file: ../Source/bex/src/dma.c'
+000-'Invoking: ARM R5 gcc compiler'
+000-armr5-none-eabi-gcc -DARMR5 -Wall -O2 -g3 -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\common" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\src" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\inc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\cli" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\ipc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\log" -c -fmessage-length=0 -MT"Source/bex/src/dma.o" -mcpu=cortex-r5  -mfloat-abi=hard  -mfpu=vfpv3-d16 -IC:/Users/john.meisner/Workspace/ultra96_bex/platform_freertos/export/platform_freertos/sw/platform_freertos/freertos10_xilinx_domain/bspinclude/include -MMD -MP -MF"Source/bex/src/dma.d" -MT"Source/bex/src/dma.o" -o "Source/bex/src/dma.o" "../Source/bex/src/dma.c"
+000-'Finished building: ../Source/bex/src/dma.c'
+000-' '
+000-'Building file: ../Source/bex/src/instruction_processor.c'
+000-'Invoking: ARM R5 gcc compiler'
+000-armr5-none-eabi-gcc -DARMR5 -Wall -O2 -g3 -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\common" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\src" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\inc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\cli" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\ipc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\log" -c -fmessage-length=0 -MT"Source/bex/src/instruction_processor.o" -mcpu=cortex-r5  -mfloat-abi=hard  -mfpu=vfpv3-d16 -IC:/Users/john.meisner/Workspace/ultra96_bex/platform_freertos/export/platform_freertos/sw/platform_freertos/freertos10_xilinx_domain/bspinclude/include -MMD -MP -MF"Source/bex/src/instruction_processor.d" -MT"Source/bex/src/instruction_processor.o" -o "Source/bex/src/instruction_processor.o" "../Source/bex/src/instruction_processor.c"
+000-'Finished building: ../Source/bex/src/instruction_processor.c'
+000-' '
+000-'Building file: ../Source/bex/src/main.c'
+000-'Invoking: ARM R5 gcc compiler'
+000-armr5-none-eabi-gcc -DARMR5 -Wall -O2 -g3 -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\common" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\src" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\inc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\cli" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\ipc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\log" -c -fmessage-length=0 -MT"Source/bex/src/main.o" -mcpu=cortex-r5  -mfloat-abi=hard  -mfpu=vfpv3-d16 -IC:/Users/john.meisner/Workspace/ultra96_bex/platform_freertos/export/platform_freertos/sw/platform_freertos/freertos10_xilinx_domain/bspinclude/include -MMD -MP -MF"Source/bex/src/main.d" -MT"Source/bex/src/main.o" -o "Source/bex/src/main.o" "../Source/bex/src/main.c"
+000-'Finished building: ../Source/bex/src/main.c'
+000-' '
+000-'Building file: ../Source/bex/src/test_control.c'
+000-'Invoking: ARM R5 gcc compiler'
+000-armr5-none-eabi-gcc -DARMR5 -Wall -O2 -g3 -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\common" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\src" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\inc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\cli" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\ipc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\log" -c -fmessage-length=0 -MT"Source/bex/src/test_control.o" -mcpu=cortex-r5  -mfloat-abi=hard  -mfpu=vfpv3-d16 -IC:/Users/john.meisner/Workspace/ultra96_bex/platform_freertos/export/platform_freertos/sw/platform_freertos/freertos10_xilinx_domain/bspinclude/include -MMD -MP -MF"Source/bex/src/test_control.d" -MT"Source/bex/src/test_control.o" -o "Source/bex/src/test_control.o" "../Source/bex/src/test_control.c"
+000-'Finished building: ../Source/bex/src/test_control.c'
+000-' '
+000-'Building file: ../Source/bex/src/test_scenarios.c'
+000-'Invoking: ARM R5 gcc compiler'
+000-armr5-none-eabi-gcc -DARMR5 -Wall -O2 -g3 -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\common" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\src" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\inc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\cli" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\ipc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\log" -c -fmessage-length=0 -MT"Source/bex/src/test_scenarios.o" -mcpu=cortex-r5  -mfloat-abi=hard  -mfpu=vfpv3-d16 -IC:/Users/john.meisner/Workspace/ultra96_bex/platform_freertos/export/platform_freertos/sw/platform_freertos/freertos10_xilinx_domain/bspinclude/include -MMD -MP -MF"Source/bex/src/test_scenarios.d" -MT"Source/bex/src/test_scenarios.o" -o "Source/bex/src/test_scenarios.o" "../Source/bex/src/test_scenarios.c"
+000-'Finished building: ../Source/bex/src/test_scenarios.c'
+000-' '
+000-'Building file: ../Source/bex/src/timer.c'
+000-'Invoking: ARM R5 gcc compiler'
+000-armr5-none-eabi-gcc -DARMR5 -Wall -O2 -g3 -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\common" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\src" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\bex\inc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\cli" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\ipc" -I"C:\Users\john.meisner\Backup\Workspace\ultra96_bex\app_bex\Source\shared\log" -c -fmessage-length=0 -MT"Source/bex/src/timer.o" -mcpu=cortex-r5  -mfloat-abi=hard  -mfpu=vfpv3-d16 -IC:/Users/john.meisner/Workspace/ultra96_bex/platform_freertos/export/platform_freertos/sw/platform_freertos/freertos10_xilinx_domain/bspinclude/include -MMD -MP -MF"Source/bex/src/timer.d" -MT"Source/bex/src/timer.o" -o "Source/bex/src/timer.o" "../Source/bex/src/timer.c"
+000-'Finished building: ../Source/bex/src/timer.c'
+000-' '
+000-'Building target: app_bex.elf'
+000-'Invoking: ARM R5 gcc linker'
+000-armr5-none-eabi-gcc -mcpu=cortex-r5  -mfloat-abi=hard  -mfpu=vfpv3-d16 -Wl,-T -Wl,../Source/bex/lscript.ld -LC:/Users/john.meisner/Workspace/ultra96_bex/platform_freertos/export/platform_freertos/sw/platform_freertos/freertos10_xilinx_domain/bsplib/lib -o "app_bex.elf"  ./Source/shared/log/log.o  ./Source/shared/ipc/helper.o ./Source/shared/ipc/platform_info.o ./Source/shared/ipc/rpmsg-echo.o ./Source/shared/ipc/rsc_table.o ./Source/shared/ipc/zynqmp_r5_a53_rproc.o  ./Source/shared/cli/cli.o  ./Source/bex/src/bex.o ./Source/bex/src/chan-size-1-instructions.o ./Source/bex/src/chan-size-1501-instructions.o ./Source/bex/src/chan-size-3001-instructions.o ./Source/bex/src/dma.o ./Source/bex/src/gpio.o ./Source/bex/src/instruction_processor.o ./Source/bex/src/main.o ./Source/bex/src/test_control.o ./Source/bex/src/test_scenarios.o ./Source/bex/src/timer.o  ./.metadata/.plugins/org.eclipse.cdt.make.core/specs.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-lmetal,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-lmetal,-lopen_amp,-lgcc,-lc,--end-group
+000-'Finished building target: app_bex.elf'
+000-' '
+000-'Invoking: ARM R5 Print Size'
+000-armr5-none-eabi-size app_bex.elf  |tee "app_bex.elf.size"
+000-   text	   data	    bss	    dec	    hex	filename
+000- 459181	   5792	 763356	1228329	 12be29	app_bex.elf
+000-'Finished building: app_bex.elf.size'
+000-' '
+00255-
+19:45:33 Build Finished (took 5s.980ms)
+

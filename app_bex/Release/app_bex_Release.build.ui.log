@@ -1,0 +1,37 @@
+2025-01-20T14:34:10.462194100255-14:34:10 **** Incremental Build of configuration Release for project app_bex ****
+000-make all 
+000-'Building file: ../Source/bex/src/bex.c'
+000-'Invoking: ARM R5 gcc compiler'
+000-armr5-none-eabi-gcc -DARMR5 -Wall -O2 -I"C:\Users\john.meisner\Workspace\ultra96_bex\app_bex\Source\shared\common" -I"C:\Users\john.meisner\Workspace\ultra96_bex\app_bex\Source\bex\src" -I"C:\Users\john.meisner\Workspace\ultra96_bex\app_bex\Source\bex\inc" -I"C:\Users\john.meisner\Workspace\ultra96_bex\app_bex\Source\shared\cli" -I"C:\Users\john.meisner\Workspace\ultra96_bex\app_bex\Source\shared\ipc" -I"C:\Users\john.meisner\Workspace\ultra96_bex\app_bex\Source\shared\log" -c -fmessage-length=0 -MT"Source/bex/src/bex.o" -mcpu=cortex-r5  -mfloat-abi=hard  -mfpu=vfpv3-d16 -IC:/Users/john.meisner/Workspace/ultra96_bex/platform_freertos/export/platform_freertos/sw/platform_freertos/freertos10_xilinx_domain/bspinclude/include -MMD -MP -MF"Source/bex/src/bex.d" -MT"Source/bex/src/bex.o" -o "Source/bex/src/bex.o" "../Source/bex/src/bex.c"
+000-../Source/bex/src/bex.c: In function 'AWGTask':
+000/app_bex/Source/bex/src/bex.c626-1-1'status' undeclared (first use in this function); did you mean 'XStatus'?2status../Source/bex/src/bex.c:626:21: error: 'status' undeclared (first use in this function); did you mean 'XStatus'?
+000-  626 |                 if (status == UPDATE_STATUS_ERROR) {
+000-      |                     ^~~~~~
+000-      |                     XStatus
+000/app_bex/Source/bex/src/bex.c626-1-1each undeclared identifier is reported only once for each function it appears in0-../Source/bex/src/bex.c:626:21: note: each undeclared identifier is reported only once for each function it appears in
+000/app_bex/Source/bex/src/bex.c629-1-1'done' undeclared (first use in this function)2done../Source/bex/src/bex.c:629:21: error: 'done' undeclared (first use in this function)
+000-  629 |                     done = true;  // stop processing this batch
+000-      |                     ^~~~
+000/app_bex/Source/bex/src/bex.c633-1-1'producedCount' undeclared (first use in this function)2producedCount../Source/bex/src/bex.c:633:21: error: 'producedCount' undeclared (first use in this function)
+000-  633 |                 if (producedCount > 0) {
+000-      |                     ^~~~~~~~~~~~~
+000/app_bex/Source/bex/src/bex.c699-1-1'totalProduced' undeclared (first use in this function)2totalProduced../Source/bex/src/bex.c:699:21: error: 'totalProduced' undeclared (first use in this function)
+000-  699 |                     totalProduced += producedCount;
+000-      |                     ^~~~~~~~~~~~~
+000/app_bex/Source/bex/src/bex.c586-1-1unused variable 'instrSize' [-Wunused-variable]1-../Source/bex/src/bex.c:586:22: warning: unused variable 'instrSize' [-Wunused-variable]
+000-  586 |             uint32_t instrSize       = getChanInstructionSize(awg_id);
+000-      |                      ^~~~~~~~~
+000/app_bex/Source/bex/src/bex.c585-1-1unused variable 'instrData' [-Wunused-variable]1-../Source/bex/src/bex.c:585:28: warning: unused variable 'instrData' [-Wunused-variable]
+000-  585 |             const uint8_t* instrData = getChanInstructionAddr(awg_id);
+000-      |                            ^~~~~~~~~
+000-../Source/bex/src/bex.c: At top level:
+000/app_bex/Source/bex/src/bex.c735-1-1expected identifier or '(' before '}' token21:../Source/bex/src/bex.c:735:1: error: expected identifier or '(' before '}' token
+000-  735 | }
+000-      | ^
+000/app_bex/Source/bex/src/bex.c336-1-1'InitSystem' defined but not used [-Wunused-function]1InitSystem../Source/bex/src/bex.c:336:18: warning: 'InitSystem' defined but not used [-Wunused-function]
+000-  336 | static ErrorCode InitSystem(void)
+000-      |                  ^~~~~~~~~~
+000/app_bex0-1-1make: *** [Source/bex/src/subdir.mk:50: Source/bex/src/bex.o] Error 12-make: *** [Source/bex/src/subdir.mk:50: Source/bex/src/bex.o] Error 1
+00255-
+14:34:10 Build Finished (took 520ms)
+
