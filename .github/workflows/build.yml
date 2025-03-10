@@ -1,1 +1,2 @@
-
+name: platform build
+on: push
