@@ -1,15 +1,9 @@
-name: C/C++ CI
-
-on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-    - uses: actions/checkout@v4
+ jobs:
+     build:
+       runs-on: self-hosted
+       steps:
+         - name: Checkout code
+           uses: actions/checkout@v3
+         - name: Build with XSCT
+           run: |
+             /c/xilinx/vitis/2022.2/bin/xsct.bat -eval "source build_script.tcl" 
